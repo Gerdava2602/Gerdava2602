@@ -127,7 +127,6 @@ Currently learning in
     height="60px" 
     style="margin: 6px"
     src="./assets/plotly.svg"> &nbsp;
-<!-- docker, bash, insomnia, postman, git>
 -----
 
 ## Stats

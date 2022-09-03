@@ -43,7 +43,7 @@ Currently interested in
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/nodejs.svg">
+    src="./assets/node.svg">
 <img width="70px" 
     height="70px" 
     style="margin: 10px"

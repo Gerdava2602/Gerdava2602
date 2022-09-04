@@ -129,6 +129,16 @@ Currently learning in
     height="60px" 
     style="margin: 6px"
     src="./assets/plotly.svg"> &nbsp;
+
+#### Frameworks
+<img width="60px" 
+    height="60px" 
+    style="margin: 6px"
+    src="./assets/plotly-dash.svg"> &nbsp;
+<img width="60px" 
+    height="60px" 
+    style="margin: 6px"
+    src="./assets/streamlit.svg"> &nbsp;
 -----
 
 ## Stats

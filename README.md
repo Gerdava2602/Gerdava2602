@@ -131,12 +131,12 @@ Currently learning in
     src="./assets/plotly.svg"> &nbsp;
 
 #### Frameworks
-<img width="60px" 
-    height="60px" 
+<img width="90px" 
+    height="70px" 
     style="margin: 6px"
     src="./assets/plotly-dash.svg"> &nbsp;
-<img width="60px" 
-    height="60px" 
+<img width="90px" 
+    height="70px" 
     style="margin: 6px"
     src="./assets/streamlit.svg"> &nbsp;
 -----

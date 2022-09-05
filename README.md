@@ -146,5 +146,5 @@ Currently learning in
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdava2602&show_icons=true&theme=radical)
 
 ### Programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 --------

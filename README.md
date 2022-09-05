@@ -133,11 +133,11 @@ Currently learning in
     src="./assets/plotly.svg"> &nbsp;
 
 #### Frameworks
-<img width="90px" 
+<img width="100px" 
     height="70px" 
     style="margin: 6px"
     src="./assets/plotly-dash.svg"> &nbsp;
-<img width="90px" 
+<img width="1000px" 
     height="70px" 
     style="margin: 6px"
     src="./assets/streamlit.svg"> &nbsp;
@@ -147,5 +147,5 @@ Currently learning in
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdava2602&show_icons=true&theme=radical)
 
 ### Programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact&hide=html,css,jupyter%20notebook,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact&hide=html,css,jupyter,PureBasic%20notebook,scss)](https://github.com/anuraghazra/github-readme-stats)
 --------

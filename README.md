@@ -1,5 +1,7 @@
 <h1>Hello, I'm Germán</h1>
+
 -----
+
 ![](https://komarev.com/ghpvc/?username=Gerdava2602&color=blueviolet)
 
 **I'm a data scientist and backend developer. I love to analyze, explore and transform data to create amazing models. Also, i do love to code in backend, it is amazing how powerful programming can be nowadays**
@@ -139,7 +141,6 @@ Currently learning in
     height="70px" 
     style="margin: 6px"
     src="./assets/streamlit.svg"> &nbsp;
------
 
 ## Stats
 ### Github

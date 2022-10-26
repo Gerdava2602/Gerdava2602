@@ -64,20 +64,6 @@ Currently learning in
     style="margin: 6px"
     src="./assets/flask.svg">
 
-#### Package Managers
-<img width="60px" 
-    height="60px" 
-    style="margin: 6px"
-    src="./assets/npm.svg"> &nbsp;
-<img width="60px" 
-    height="60px" 
-    style="margin: 6px"
-    src="./assets/anaconda.svg"> &nbsp;
-<img width="60px" 
-    height="60px" 
-    style="margin: 6px"
-    src="./assets/pip.svg"> &nbsp;
-
 ### Databases
 <img width="60px" 
     height="60px" 

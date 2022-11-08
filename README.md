@@ -6,9 +6,9 @@
 
 **I'm a data scientist and backend developer. I love to analyze, explore and transform data to create amazing models. Also, i do love to code in backend, it is amazing how powerful programming can be nowadays**
 
-Currently learning in
+Currently learning
 - *NLP*
-- *CV*
+- *PowerBI*
 - *Rest API*
 
 ## Skills

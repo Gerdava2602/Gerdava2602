@@ -13,7 +13,7 @@ Currently learning
 
 <details>
 <summary><b>Skills</b></summary>
-<h1>Programming languages<h1/>
+<h3>Programming languages<h3/>
 <img width="60px" 
     height="60px" 
     style="margin: 6px"

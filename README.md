@@ -11,7 +11,9 @@ Currently learning
 - *NestJS*
 - *React*
 
-## Skills
+<details>
+	<summary><b>Skills</b></summary>
+	<br/>
 ### Programming languages
 <img width="60px" 
     height="60px" 
@@ -127,6 +129,7 @@ Currently learning
     height="70px" 
     style="margin: 6px"
     src="./assets/streamlit.svg"> &nbsp;
+<details/>
 
 ## Stats
 ### Github

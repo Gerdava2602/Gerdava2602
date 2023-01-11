@@ -12,9 +12,8 @@ Currently learning
 - *React*
 
 <details>
-	<summary><b>Skills</b></summary>
-###
-### Programming languages
+<summary><b>Skills</b></summary>
+<h1>Programming languages<h1/>
 <img width="60px" 
     height="60px" 
     style="margin: 6px"

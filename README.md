@@ -11,8 +11,7 @@ Currently learning
 - *NestJS*
 - *React*
 
-<details>
-<summary><h2>Skills</h2></summary>
+## Skills
 <h3>Programming languages<h3/>
 <img width="60px" 
     height="60px" 
@@ -128,14 +127,11 @@ Currently learning
     height="70px" 
     style="margin: 6px"
     src="./assets/streamlit.svg"> &nbsp;
-<details/>
 
-<details>
-<summary> <h2>Stats<h2/><summary/>
+## Stats
 ### Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdava2602&show_icons=true&theme=radical)
 
 ### Programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact&hide=html,css,jupyter%20notebook,scss,PureBasic)](https://github.com/anuraghazra/github-readme-stats)
-<details/>
 --------

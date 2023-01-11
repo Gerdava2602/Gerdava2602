@@ -12,7 +12,7 @@ Currently learning
 - *React*
 
 <details>
-<summary><b>Skills</b></summary>
+<summary><h2>Skills</h2></summary>
 <h3>Programming languages<h3/>
 <img width="60px" 
     height="60px" 
@@ -130,10 +130,12 @@ Currently learning
     src="./assets/streamlit.svg"> &nbsp;
 <details/>
 
-## Stats
+<details>
+<summary> <h2>Stats<h2/><summary/>
 ### Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdava2602&show_icons=true&theme=radical)
 
 ### Programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdava2602&layout=compact&hide=html,css,jupyter%20notebook,scss,PureBasic)](https://github.com/anuraghazra/github-readme-stats)
+<details/>
 --------

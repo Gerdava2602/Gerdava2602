@@ -13,7 +13,6 @@ Currently learning
 
 <details>
 	<summary><b>Skills</b></summary>
-	<br/>
 ### Programming languages
 <img width="60px" 
     height="60px" 

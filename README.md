@@ -4,11 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=Gerdava2602&color=blueviolet)
 
-**I'm a data scientist and backend developer. I love to analyze, explore and transform data to create amazing models. Also, i do love to code in backend, it is amazing how powerful programming can be nowadays**
+**I'm a Full stack developer. I love to analyze, explore and transform data to create amazing models. Also, i do love to code in backend, it is amazing how powerful programming can be nowadays**
 
-Currently learning
-- *GraphQL*
-- *NestJS*
+Currently working on:
+- *AWS*
+- *Djando*
 - *React*
 
 ## Skills

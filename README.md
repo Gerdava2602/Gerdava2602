@@ -8,7 +8,7 @@
 
 Currently working on:
 - *AWS*
-- *Djando*
+- *Django*
 - *React*
 
 ## Skills
